@@ -1,0 +1,247 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes
+compile options:
+2 items
+0 -> -unchecked
+1 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/Trade$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/Trade.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeServiceRegistration$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeServiceRegistration.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeApp$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeApp$delayedInit$body.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeApp.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeService$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeService$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeService.class
+binary dependencies:
+7 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> TradeService.Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> TradeService.Trade$
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> TradeService.TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> TradeService.TradeServiceRegistration$
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeApp
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeApp$
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeApp$delayedInit$body
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeService
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeService$
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeService$$anonfun$receive$1
+used names:
+123 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> &&
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> <init>
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> ==
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> A
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> AbstractFunction2
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Any
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> AnyRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Boolean
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> IndexOutOfBoundsException
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Int
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Iterator
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> None
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Nothing
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Object
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Predef
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Product
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> ScalaRunTime
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Serializable
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Some
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> String
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> T
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> T0
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> T1
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> T2
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> TradeService
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> Tuple2
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> _hashCode
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> _toString
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> action
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> eq
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> package
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> runtime
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> ticker
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> toString
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> typedProductIterator
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> ||
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> !
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> +
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> /
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> <init>
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> <repeated>
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> A1
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ActorContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ActorRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ActorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Address
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Any
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> AnyRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> App
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> B1
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Boolean
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Class
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ClusterEvent
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Config
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ConfigMergeable
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Function1
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Int
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Member
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> MemberUp
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Nothing
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Object
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Predef
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Props
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> RootActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ScalaActorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> String
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> StringContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> T
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> T0
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeApp
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeService
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> Unit
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> _$1
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> _$7
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> action
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> actorOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> actorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> address
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> akka
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> apply
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> com
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> config
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> context
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> getConfig
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> hasRole
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> initiate
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> load
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> member
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> package
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> parseString
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> port
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> println
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> s
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> self
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> subscribe
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> system
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> task
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> ticker
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> toScala
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> typesafe
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> unchecked
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> unsubscribe
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> withFallback
+product stamps:
+10 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/Trade$.class -> lastModified(1479221047000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/Trade.class -> lastModified(1479221047000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeApp$.class -> lastModified(1479223351000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeApp$delayedInit$body.class -> lastModified(1479223351000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeApp.class -> lastModified(1479223350000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeService$$anonfun$receive$1.class -> lastModified(1479223353000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeService$.class -> lastModified(1479223352000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeService.class -> lastModified(1479223352000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeServiceRegistration$.class -> lastModified(1479221047000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/target/scala-2.11/classes/TradeService/TradeServiceRegistration.class -> lastModified(1479221047000)
+source stamps:
+2 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> hash(65ab527729ce3a277d2ea805042f22f17286e2f3)
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> hash(c4570ff390fecf8bae7d6ddfda58415bc2c7ab46)
+binary stamps:
+5 items
+/home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar -> lastModified(1443601575000)
+/home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1461347982000)
+/home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar -> lastModified(1461347982000)
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar -> lastModified(1469466857000)
+class names:
+5 items
+/home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar -> akka.cluster.Member
+/home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigMergeable
+/home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar -> akka.actor.Actor
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2frNVQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYxZ4MHQABm5vdGlmeXNxAH4ADBLe3Xx0AAR3YWl0c3EAfgAMIDHWhnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMQNqJVHQADSRhc0luc3RhbmNlT2ZzcQB+AAwmcyIudAAYVHJhZGVTZXJ2aWNlUmVnaXN0cmF0aW9uc3EAfgAMdxWouHQADHByb2R1Y3RBcml0eXNxAH4ADGT4mfd0AAZlcXVhbHNzcQB+AAyVb7gAdAAFVHJhZGVzcQB+AAykrDdCdAAMYXNJbnN0YW5jZU9mc3EAfgAMgY5xR3QADHN5bmNocm9uaXplZHNxAH4ADAo/ntF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMXpxS7nQACGNhbkVxdWFsc3EAfgAMlf8OenQADXByb2R1Y3RQcmVmaXhzcQB+AAzanh3kdAAJbm90aWZ5QWxsc3EAfgAMIO0idnQADGlzSW5zdGFuY2VPZnNxAH4ADAcqXqZ0AAY8aW5pdD5zcQB+AAx0WSXrdAACPT1zcQB+AAy+27BEdAAFY2xvbmVzcQB+AAzN7ro9dAAGJGluaXQkc3EAfgAMqszl3HQABGNvcHlzcQB+AAwQKUmqdAAIdG9TdHJpbmdzcQB+AAwOFw4XdAACIT1zcQB+AAxSnFindAAIZ2V0Q2xhc3NzcQB+AAyb+x2mdAAOY29weSRkZWZhdWx0JDFzcQB+AAz8s92RdAAGdGlja2Vyc3EAfgAMP9ojWXQAAm5lc3EAfgAMf/A1hnQABmFjdGlvbnNxAH4ADKqBmGB0AAJlcXNxAH4ADDEU86F0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyk0+tTdAACIyNzcQB+AAzQynxYdAAIZmluYWxpemVzcQB+AAxrYsEKdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAycV0sYdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAASVHJhZGVTZXJ2aWNlLlRyYWRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB2c3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVxAH4AVAAAAABzcQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI9zcQB+AIJxAH4AhXNxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI50AARqYXZhc3EAfgCOdAACaW9xAH4Ak3NxAH4AgnQAB1Byb2R1Y3RxAH4AiHNxAH4AgnQABkVxdWFsc3EAfgCIc3EAfgCCdAAGT2JqZWN0c3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnEAfgCZc3EAfgCOdAAEbGFuZ3EAfgCTc3EAfgCCdAADQW55cQB+AIhzcQB+AFZxAH4AY3VxAH4AZAAAAABzcQB+AGYAdAAlVHJhZGVTZXJ2aWNlLlRyYWRlU2VydmljZVJlZ2lzdHJhdGlvbnVxAH4AaQAAAAB+cQB+AGt0AAZNb2R1bGV1cQB+AG8AAAAAc3EAfgBxcQB+AHdzcQB+AHFzcQB+AHlzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVxAH4AgAAAAAZzcQB+AIJxAH4AhXNxAH4AhnNxAH4AiXVxAH4AjAAAAAJzcQB+AI5xAH4AkXEAfgCTc3EAfgCCcQB+AIVzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOcQB+AJlzcQB+AI50AAJpb3EAfgCTc3EAfgCCcQB+AJ1xAH4AvHNxAH4AgnQABkVxdWFsc3EAfgC8c3EAfgCCcQB+AKFzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOcQB+AJlzcQB+AI5xAH4Ap3EAfgCTc3EAfgCCcQB+AKlxAH4AvHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADFRyYWRlU2VydmljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGhx4MB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL2hvbWUvamJlY2tlci9Eb2N1bWVudHMvU0UgNDgwL1BlcnNvbmFsQXNzaXN0ZW50L1RyYWRlU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZatSdynOOid9LqgFBC8i8XKG4vM=
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOph5MQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB/0ndJdAAEc2VsZnNxAH4ACyYszKZ0AAdjb250ZXh0dXEAfgAJAAAAK3NxAH4AC2EhC8F0AAxUcmFkZVNlcnZpY2VzcQB+AAux8icydAAGbm90aWZ5c3EAfgALYc9H/3QAB1JlY2VpdmVzcQB+AAsaZwAHdAAEd2FpdHNxAH4ACwKvC6t0AA0kYXNJbnN0YW5jZU9mc3EAfgALl94Rn3QABmVxdWFsc3NxAH4AC144vj50AAxhc0luc3RhbmNlT2ZzcQB+AAsys9XQdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvKTiludAAMc3luY2hyb25pemVkc3EAfgALiFsFvHQACGluaXRpYXRlc3EAfgALRDPnxnQADSRpc0luc3RhbmNlT2ZzcQB+AAsM0LbedAAHcmVjZWl2ZXNxAH4AC3aaEWp0AApwcmVSZXN0YXJ0c3EAfgALgBQYI3QADWFyb3VuZFJlY2VpdmVzcQB+AAvwAXhzdAALcG9zdFJlc3RhcnRzcQB+AAu4OACadAAEbWFpbnNxAH4ACzDJPrN0AAhwb3N0U3RvcHNxAH4ACxTZp590AAlub3RpZnlBbGxzcQB+AAvgZ2MhdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtSgbpBdAAMaXNJbnN0YW5jZU9mc3EAfgALqn+ExXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuDiuB/dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsB08xTdAAHY2x1c3RlcnNxAH4AC/hwc0B0AAY8aW5pdD5zcQB+AAuj1g90dAAIcHJlU3RhcnRzcQB+AAug49OAdAAIVHJhZGVBcHBzcQB+AAsgoB9PdAAJdW5oYW5kbGVkc3EAfgALML44MHQAAj09c3EAfgALKL/u13QABWNsb25lc3EAfgALceM7z3QABiRpbml0JHNxAH4AC60vv+l0AAZzZW5kZXJzcQB+AAt7I7ZQdAAIdG9TdHJpbmdzcQB+AAulzg4pdAAEYXJnc3NxAH4ACzhFeEt0AAIhPXNxAH4AC2htX310AAhnZXRDbGFzc3NxAH4ACwz5db10AAJuZXNxAH4AC2JNWzh0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuZwKvCdAACZXFzcQB+AAvIGG7GdAALZGVsYXllZEluaXRzcQB+AAumG+7IdAACIyNzcQB+AAu+I/sgdAAIZmluYWxpemVzcQB+AAtiCNOtdAAIaGFzaENvZGVzcQB+AAt+Hl1MdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZVHJhZGVTZXJ2aWNlLlRyYWRlU2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjnNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCNdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKZ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCnc3EAfgCadAAGT2JqZWN0c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnQABGphdmFzcQB+AKZ0AARsYW5ncQB+AK1zcQB+AJp0AANBbnlzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmdAAFc2NhbGFxAH4ArXNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0ABlUcmFkZVNlcnZpY2UuVHJhZGVTZXJ2aWNldXEAfgCBAAAAAH5xAH4Ag3QABk1vZHVsZXVxAH4AhwAAAABzcQB+AIlxAH4Aj3NxAH4AiXNxAH4AkXNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXEAfgCYAAAAAnNxAH4AmnEAfgCvc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgC0c3EAfgCmcQB+ALZxAH4ArXNxAH4AmnEAfgC4c3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnEAfgC9cQB+AK1zcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAVVHJhZGVTZXJ2aWNlLlRyYWRlQXBwdXEAfgCBAAAAAHEAfgDDdXEAfgCHAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4AiXEAfgCPc3EAfgCJc3EAfgCRc3EAfgCJdXEAfgBsAAAAAHNxAH4AiXVxAH4AbAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcnEAfgB7dXEAfgB8AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A6nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AvXEAfgCtc3EAfgB+AHEAfgAxdXEAfgCBAAAAAHNxAH4AmnQABFVuaXRxAH4A+XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AOp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIR0AAVQbGFpbnEAfgBTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCNc3EAfgCadAAFQXJyYXlxAH4A+XVxAH4AmAAAAAFzcQB+AJp0AAZTdHJpbmdzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALRzcQB+AKZxAH4AtnEAfgCtc3EAfgCJdXEAfgCYAAAABHNxAH4AmnQAA0FwcHEAfgD5c3EAfgCadAALRGVsYXllZEluaXRxAH4A+XNxAH4AmnEAfgCvcQB+ARZzcQB+AJpxAH4AuHEAfgD5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAMVHJhZGVTZXJ2aWNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYaJRZ9HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFcvaG9tZS9qYmVja2VyL0RvY3VtZW50cy9TRSA0ODAvUGVyc29uYWxBc3Npc3RlbnQvVHJhZGVTZXJ2aWNlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTEVw/zkP7Pi659bd/aWEFbwserRg==
+external apis:
+0 items
+source infos:
+2 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/Messages.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/PersonalAssistent/TradeService/src/main/scala/TradeService/TradeService.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGhsMiR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9UcmFkZVNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGhx4MB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9UcmFkZVNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGhx8cl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9UcmFkZVNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGiUWfR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9UcmFkZVNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

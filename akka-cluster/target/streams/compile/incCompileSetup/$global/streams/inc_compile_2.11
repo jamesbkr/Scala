@@ -1,0 +1,631 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes
+compile options:
+2 items
+0 -> -unchecked
+1 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+28 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountService$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountService$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountService.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trading$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trading$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trading.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/ClusterApp$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/ClusterApp$delayedInit$body.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/ClusterApp.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountServiceRegistration$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountServiceRegistration.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Add$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Add.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/BackendRegistration$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/BackendRegistration.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Login$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Login.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trade$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trade.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeServiceRegistration$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeServiceRegistration.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeService$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeService$.class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeService.class
+binary dependencies:
+24 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> cluster.AccountService
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> cluster.AccountService$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> cluster.AccountService$$anonfun$receive$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> cluster.Trading
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> cluster.Trading$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> cluster.Trading$$anonfun$receive$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> cluster.ClusterApp
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> cluster.ClusterApp$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> cluster.ClusterApp$delayedInit$body
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> cluster.Frontend
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> cluster.Frontend$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> cluster.Frontend$$anonfun$receive$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> cluster.Frontend$$anonfun$receive$1$$anonfun$applyOrElse$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.AccountServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.AccountServiceRegistration$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.Add
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.Add$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.BackendRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.BackendRegistration$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.Login
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.Login$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.Trade
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.Trade$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.TradeServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster.TradeServiceRegistration$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> cluster.TradeService
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> cluster.TradeService$
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> cluster.TradeService$$anonfun$receive$1
+used names:
+404 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> !
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> +
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> /
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> <init>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> <repeated>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> A1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> AccountService
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> AccountServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ActorContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ActorPath
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ActorRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ActorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Address
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Any
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> AnyRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> B1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Boolean
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ClusterEvent
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ConfigMergeable
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Function1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Int
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Login
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Member
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> MemberUp
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Nothing
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Object
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Predef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Props
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> RootActorPath
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> ScalaActorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> String
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> StringContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> T
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> T0
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> Unit
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> _$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> _$7
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> actorOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> actorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> address
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> akka
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> apply
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> com
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> context
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> getConfig
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> hasRole
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> load
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> member
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> name
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> package
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> parseString
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> password
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> port
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> println
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> s
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> self
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> subscribe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> system
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> toScala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> typesafe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> unchecked
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> unsubscribe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> withFallback
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> !
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> /
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> <init>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> <repeated>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> A1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ActorContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ActorPath
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ActorRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ActorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Address
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Any
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> AnyRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> B1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> BackendRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Boolean
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ClusterEvent
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ConfigMergeable
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Function1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Int
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Member
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> MemberUp
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Nothing
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Object
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Predef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Props
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> RootActorPath
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> ScalaActorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> String
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> StringContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> T
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> T0
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Trading
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> Unit
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> _$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> _$7
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> actorOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> actorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> address
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> akka
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> apply
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> com
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> context
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> getConfig
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> hasRole
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> load
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> member
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> package
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> parseString
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> port
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> println
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> s
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> self
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> subscribe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> system
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> toScala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> typesafe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> unchecked
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> unsubscribe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> withFallback
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> !
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> <init>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> AccountService
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> ActorRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Any
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> App
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> ClusterApp
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Frontend
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Int
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Login
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Long
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Object
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Predef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Props
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> ScalaActorRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> String
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Thread
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Trade
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> TradeService
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> Unit
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> actorRef2Scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> akka
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> getFrontend
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> initiate
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> java
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> lang
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> package
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> qual$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> qual$2
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> sleep
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> x$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> x$2
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> x$3
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> x$4
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> :+
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> <init>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> ==
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> A
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> A1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> AccountServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> ActorContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> ActorRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Any
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> AnyRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> B
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> B1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Boolean
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> CanBuildFrom
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> ClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Coll
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Frontend
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Function1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> IndexedSeq
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Int
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Login
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Nothing
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Object
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Predef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Props
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Random
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> String
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> T
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> T0
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Terminated
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> That
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Trade
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> Unit
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> _$7
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> _frontend
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> _frontend_=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> a
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> accounting
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> accounting_=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> actorOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> akka
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> apply
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> backends
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> backends_=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> canBuildFrom
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> collection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> com
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> contains
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> context
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> empty
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> filterNot
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> forward
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> getConfig
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> isEmpty
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> load
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> nextInt
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> package
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> println
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> sender
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> size
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> system
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> trade
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> trade_=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> typesafe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> unary_!
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> unchecked
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> util
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> watch
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> &&
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> <init>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> ==
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> A
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> AbstractFunction2
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> AccountServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Add
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Any
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> AnyRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> BackendRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Boolean
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> IndexOutOfBoundsException
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Int
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Iterator
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Login
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> None
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Nothing
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Object
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Predef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Product
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> ScalaRunTime
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Serializable
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Some
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Statics
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> String
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> T
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> T0
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> T1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> T2
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Trade
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> Tuple2
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> _hashCode
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> _toString
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> action
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> eq
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> finalizeHash
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> mix
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> name
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> num1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> num2
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> package
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> password
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> runtime
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> ticker
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> toString
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> typedProductIterator
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> ||
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> !
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> +
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> /
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> <init>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> <repeated>
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> A1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ActorContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ActorPath
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ActorRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ActorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Address
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Any
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> AnyRef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> B1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Boolean
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Class
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ClusterEvent
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ConfigMergeable
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Function1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Int
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Member
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> MemberUp
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Nothing
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Object
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Predef
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Props
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> RootActorPath
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ScalaActorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> String
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> StringContext
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> T
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> T0
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Trade
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> TradeService
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> Unit
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> _$1
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> _$7
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> action
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> actor
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> actorOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> actorSelection
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> address
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> akka
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> apply
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> cluster
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> com
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> config
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> context
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> getConfig
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> hasRole
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> load
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> member
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> package
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> parseString
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> port
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> println
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> s
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> scala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> self
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> subscribe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> system
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> task
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> ticker
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> toScala
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> typesafe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> unchecked
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> unsubscribe
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> withFallback
+product stamps:
+28 items
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountService$$anonfun$receive$1.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountService$.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountService.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountServiceRegistration$.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/AccountServiceRegistration.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Add$.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Add.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/BackendRegistration$.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/BackendRegistration.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/ClusterApp$.class -> lastModified(1479217437000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/ClusterApp$delayedInit$body.class -> lastModified(1479217437000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/ClusterApp.class -> lastModified(1479217437000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend$$anonfun$receive$1.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend$.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Frontend.class -> lastModified(1479216992000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Login$.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Login.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trade$.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trade.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeService$$anonfun$receive$1.class -> lastModified(1479217548000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeService$.class -> lastModified(1479217548000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeService.class -> lastModified(1479217548000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeServiceRegistration$.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/TradeServiceRegistration.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trading$$anonfun$receive$1.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trading$.class -> lastModified(1479216993000)
+/home/jbecker/Documents/SE 480/akka-cluster/target/scala-2.11/classes/cluster/Trading.class -> lastModified(1479216993000)
+source stamps:
+6 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> hash(5bdb0cfc752d9c7b4e3b847d327c1cdf68a3e06a)
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> hash(1e259a073a2ae527b18b2beecd0c4890c2a2b739)
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> hash(214ad9d69d5d3ac6615cc10bccd5c7d451567316)
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> hash(593cbc514788f257a2886bb1df6df8857f272aa1)
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> hash(debea4f5d8126f4a6a8c39f67271da75e9c0e6c1)
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> hash(28b7c8963470cb5e5186ec5a125acbdc61f625ee)
+binary stamps:
+5 items
+/home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar -> lastModified(1443601575000)
+/home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1461347982000)
+/home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar -> lastModified(1461347982000)
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar -> lastModified(1469466857000)
+class names:
+5 items
+/home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar -> akka.cluster.Cluster
+/home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigMergeable
+/home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractPartialFunction
+/home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar -> akka.actor.Actor
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUt0SpgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAVhw+gdAAEc2VsZnNxAH4ACxysaEJ0AAdjb250ZXh0dXEAfgAJAAAAJnNxAH4ACxXMZTN0AAZub3RpZnlzcQB+AAu7BdzhdAAHUmVjZWl2ZXNxAH4ACyGhAXt0AAR3YWl0c3EAfgALc9njG3QADSRhc0luc3RhbmNlT2ZzcQB+AAv8ZJs9dAAGZXF1YWxzc3EAfgALUH44DnQADGFzSW5zdGFuY2VPZnNxAH4AC9btpod0AAxzeW5jaHJvbml6ZWRzcQB+AAvsdy1CdAAIaW5pdGlhdGVzcQB+AAu3FVWGdAANJGlzSW5zdGFuY2VPZnNxAH4ACwcBJJV0AAdyZWNlaXZlc3EAfgALfuJ3S3QACnByZVJlc3RhcnRzcQB+AAuqNGqVdAANYXJvdW5kUmVjZWl2ZXNxAH4AC42fsLF0AAtwb3N0UmVzdGFydHNxAH4AC2+Jdj90AAhwb3N0U3RvcHNxAH4AC/BsCE10AAlub3RpZnlBbGxzcQB+AAsBdmY9dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAu2o947dAAMaXNJbnN0YW5jZU9mc3EAfgALC1uRD3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsiYY7ldAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsBpP1ddAAHY2x1c3RlcnNxAH4AC3MZI8F0AAY8aW5pdD5zcQB+AAuEBOtwdAAIcHJlU3RhcnRzcQB+AAtA5Rj7dAAJdW5oYW5kbGVkc3EAfgALrHVWoHQAAj09c3EAfgALw4fQfXQABWNsb25lc3EAfgALHWv8HnQABiRpbml0JHNxAH4AC5BDnrd0AAZzZW5kZXJzcQB+AAue8t9LdAAIdG9TdHJpbmdzcQB+AAt9v8DldAACIT1zcQB+AAuELb83dAAIZ2V0Q2xhc3NzcQB+AAvJYlDhdAAOQWNjb3VudFNlcnZpY2VzcQB+AAsHruc3dAACbmVzcQB+AAtJO7gJdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALWJrBInQAAmVxc3EAfgALowcc1HQAAiMjc3EAfgALl66MJ3QACGZpbmFsaXplc3EAfgALQhWJLXQACGhhc2hDb2Rlc3EAfgAL43BD9XQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFmNsdXN0ZXIuQWNjb3VudFNlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIRzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCcdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHQABk9iamVjdHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAAEbGFuZ3EAfgCjc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAdAAWY2x1c3Rlci5BY2NvdW50U2VydmljZXVxAH4AdwAAAAB+cQB+AHl0AAZNb2R1bGV1cQB+AH0AAAAAc3EAfgB/cQB+AIVzcQB+AH9zcQB+AIdzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AjgAAAAJzcQB+AJBxAH4ApXNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4AqnNxAH4AnHEAfgCscQB+AKNzcQB+AJBxAH4ArnNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4As3EAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHY2x1c3RlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgz9aZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL2hvbWUvamJlY2tlci9Eb2N1bWVudHMvU0UgNDgwL2Fra2EtY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUW9sM/HUtnHtOO4R9Mnwc32ij4Go=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOlEpygAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAdflmMdAAEc2VsZnNxAH4ACwFTXm50AAdjb250ZXh0dXEAfgAJAAAAJnNxAH4AC8+x4E10AAZub3RpZnlzcQB+AAvhtDNNdAAHUmVjZWl2ZXNxAH4AC8SVcMl0AAR3YWl0c3EAfgALV0Mj6HQADSRhc0luc3RhbmNlT2ZzcQB+AAsxBIH2dAAHVHJhZGluZ3NxAH4AC79ggnh0AAZlcXVhbHNzcQB+AAvPOIngdAAMYXNJbnN0YW5jZU9mc3EAfgALZYTGLnQADHN5bmNocm9uaXplZHNxAH4AC1cSnrF0AAhpbml0aWF0ZXNxAH4AC+9ajUB0AA0kaXNJbnN0YW5jZU9mc3EAfgAL4hSoVHQAB3JlY2VpdmVzcQB+AAt0MQSUdAAKcHJlUmVzdGFydHNxAH4AC95VITJ0AA1hcm91bmRSZWNlaXZlc3EAfgALtuFUq3QAC3Bvc3RSZXN0YXJ0c3EAfgALrFoWGXQACHBvc3RTdG9wc3EAfgALznPtPnQACW5vdGlmeUFsbHNxAH4AC3Ge0Ih0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC+/AfsN0AAxpc0luc3RhbmNlT2ZzcQB+AAtsZ7vldAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC61tLvJ0AA5hcm91bmRQb3N0U3RvcHNxAH4ACwlGShx0AAdjbHVzdGVyc3EAfgALkijZr3QABjxpbml0PnNxAH4AC+ZcNNl0AAhwcmVTdGFydHNxAH4AC8dCTgR0AAl1bmhhbmRsZWRzcQB+AAurN7fFdAACPT1zcQB+AAviOZ25dAAFY2xvbmVzcQB+AAuP4D+ndAAGJGluaXQkc3EAfgALcgJEXnQABnNlbmRlcnNxAH4AC/OoNiV0AAh0b1N0cmluZ3NxAH4ACwYwHbB0AAIhPXNxAH4AC3v7E9l0AAhnZXRDbGFzc3NxAH4ACyMrG0t0AAJuZXNxAH4ACxDd7B50ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtQjutFdAACZXFzcQB+AAveo+GEdAACIyNzcQB+AAt53H1AdAAIZmluYWxpemVzcQB+AAshpzkIdAAIaGFzaENvZGVzcQB+AAvXxDoHdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPY2x1c3Rlci5UcmFkaW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCEc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAABzcQB+AH91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIN0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AnHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ1zcQB+AJB0AAZPYmplY3RzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCcdAAEamF2YXNxAH4AnHQABGxhbmdxAH4Ao3NxAH4AkHQAA0FueXNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJx0AAVzY2FsYXEAfgCjc3EAfgBkcQB+AHF1cQB+AHIAAAAAc3EAfgB0AHQAD2NsdXN0ZXIuVHJhZGluZ3VxAH4AdwAAAAB+cQB+AHl0AAZNb2R1bGV1cQB+AH0AAAAAc3EAfgB/cQB+AIVzcQB+AH9zcQB+AIdzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AjgAAAAJzcQB+AJBxAH4ApXNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4AqnNxAH4AnHEAfgCscQB+AKNzcQB+AJBxAH4ArnNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4As3EAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHY2x1c3RlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgz9aZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL2hvbWUvamJlY2tlci9Eb2N1bWVudHMvU0UgNDgwL2Fra2EtY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHiWaBzoq5SexiyvuzQxIkMKitzk=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFAQUuAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmV9rBXQABm5vdGlmeXNxAH4ADF4iEZB0AAR3YWl0c3EAfgAMmZvdOnQADSRhc0luc3RhbmNlT2ZzcQB+AAzyBldDdAAGZXF1YWxzc3EAfgAMoGetDnQADGFzSW5zdGFuY2VPZnNxAH4ADE3f+Qd0AA5leGVjdXRpb25TdGFydHNxAH4ADKAz/JJ0AAxzeW5jaHJvbml6ZWRzcQB+AAx+4TFIdAANJGlzSW5zdGFuY2VPZnNxAH4ADP/lqQx0AARtYWluc3EAfgAMA9mmt3QACW5vdGlmeUFsbHNxAH4ADLMoOc90AAxpc0luc3RhbmNlT2ZzcQB+AAx6L+1NdAAKQ2x1c3RlckFwcHNxAH4ADHmDExt0AAI9PXNxAH4ADMFGiRh0AAVjbG9uZXNxAH4ADCW4hip0AAYkaW5pdCRzcQB+AAxu2GqrdAAIdG9TdHJpbmdzcQB+AAy0dpd0dAAEYXJnc3NxAH4ADA1y6xB0AAIhPXNxAH4ADLsdPpN0AAhnZXRDbGFzc3NxAH4ADFHP9pB0AAJuZXNxAH4ADJhPNyV0AAJlcXNxAH4ADLsphcR0AAtkZWxheWVkSW5pdHNxAH4ADAhZFIt0AAIjI3NxAH4ADMm2skJ0AAhmaW5hbGl6ZXNxAH4ADBVDjVJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJjbHVzdGVyLkNsdXN0ZXJBcHB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBoc3EAfgBjdXEAfgBEAAAAAHNxAH4AY3VxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AcnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AFYAcQB+AB91cQB+AFkAAAAAc3EAfgB/dAAEVW5pdHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGdzcQB+AH90AAVBcnJheXEAfgCFdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AH90AAZTdHJpbmdzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLdAAEamF2YXNxAH4Ai3QABGxhbmdxAH4AkHNxAH4AY3VxAH4ApwAAAARzcQB+AH90AANBcHBxAH4AhXNxAH4Af3QAC0RlbGF5ZWRJbml0cQB+AIVzcQB+AH90AAZPYmplY3RxAH4Aq3NxAH4Af3QAA0FueXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHY2x1c3RlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg6w7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL2hvbWUvamJlY2tlci9Eb2N1bWVudHMvU0UgNDgwL2Fra2EtY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUIUrZ1p1dOsZhXMELzNXH1FFWcxY=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlDF+EAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDYY7cTdAAEc2VsZnNxAH4AC41fywJ0AAdjb250ZXh0dXEAfgAJAAAAKXNxAH4ACwD0/l50AAZub3RpZnlzcQB+AAvl7rildAAHUmVjZWl2ZXNxAH4AC1VOPG50AAphY2NvdW50aW5nc3EAfgALeIZTV3QABHdhaXRzcQB+AAvHVQzQdAANJGFzSW5zdGFuY2VPZnNxAH4AC88Z4DZ0AAhGcm9udGVuZHNxAH4AC4uOwbR0AAZlcXVhbHNzcQB+AAuyGJw8dAAIYmFja2VuZHNzcQB+AAuccacpdAAMYXNJbnN0YW5jZU9mc3EAfgAL3hi1b3QADHN5bmNocm9uaXplZHNxAH4AC9CteGh0AAhpbml0aWF0ZXNxAH4AC7T2ETV0AA0kaXNJbnN0YW5jZU9mc3EAfgALI3uaPXQAB3JlY2VpdmVzcQB+AAtIdachdAAKcHJlUmVzdGFydHNxAH4AC/NGkhB0AA1hcm91bmRSZWNlaXZlc3EAfgALkAle7nQABXRyYWRlc3EAfgALuTb6HXQAC3Bvc3RSZXN0YXJ0c3EAfgALyARFuXQACHBvc3RTdG9wc3EAfgALTjbNYHQACW5vdGlmeUFsbHNxAH4AC9BK5uN0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACxKDKvt0AAxpc0luc3RhbmNlT2ZzcQB+AAuOI6aDdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC3tOHyt0AA5hcm91bmRQb3N0U3RvcHNxAH4AC8debYx0AAY8aW5pdD5zcQB+AAu7huV+dAAIcHJlU3RhcnRzcQB+AAv5tW83dAAJdW5oYW5kbGVkc3EAfgALhBcUtHQAAj09c3EAfgALJIsLEHQABWNsb25lc3EAfgAL4WuiknQABiRpbml0JHNxAH4AC8QyBxV0AAZzZW5kZXJzcQB+AAsmn0HvdAAIdG9TdHJpbmdzcQB+AAv/GsqudAACIT1zcQB+AAstMkyydAAIZ2V0Q2xhc3NzcQB+AAuCl3mudAACbmVzcQB+AAuc6UzBdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALN0Sz2XQAAmVxc3EAfgAL6Q9jwXQAC2dldEZyb250ZW5kc3EAfgALS+KulXQAAiMjc3EAfgALrztQZnQACGZpbmFsaXplc3EAfgALRiILeXQACGhhc2hDb2Rlc3EAfgALacudfXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AbXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEGNsdXN0ZXIuRnJvbnRlbmR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBtTAAJaW5oZXJpdGVkcQB+AG1MAAdwYXJlbnRzcQB+AG14cQB+AIpzcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCJc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCidAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AlnQABk9iamVjdHNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAAEbGFuZ3EAfgCpc3EAfgCWdAADQW55c3EAfgCac3EAfgCddXEAfgCgAAAAAnNxAH4AonQABXNjYWxhcQB+AKlzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoAdAAQY2x1c3Rlci5Gcm9udGVuZHVxAH4AfQAAAAB+cQB+AH90AAZNb2R1bGV1cQB+AIMAAAAAc3EAfgCFcQB+AItzcQB+AIVzcQB+AI1zcQB+AIV1cQB+AGgAAAAAc3EAfgCFdXEAfgBoAAAAAHNxAH4AhXVxAH4AlAAAAAJzcQB+AJZxAH4Aq3NxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJxAH4AsHNxAH4AonEAfgCycQB+AKlzcQB+AJZxAH4AtHNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4AuXEAfgCpdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHY2x1c3RlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgz9aZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL2hvbWUvamJlY2tlci9Eb2N1bWVudHMvU0UgNDgwL2Fra2EtY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUWTy8UUeI8leiiGux3234hX8nKqE=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHHfdvQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhWsVSnQABm5vdGlmeXNxAH4ADFZvYId0AARuYW1lc3EAfgAMvJWF7HQABHdhaXRzcQB+AAyoARUZdAAEbnVtMXNxAH4ADBO6iFF0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADFE9C4F0AA0kYXNJbnN0YW5jZU9mc3EAfgAM63EGOHQAGFRyYWRlU2VydmljZVJlZ2lzdHJhdGlvbnNxAH4ADDDsE3V0AAxwcm9kdWN0QXJpdHlzcQB+AAwQS1JpdAAGZXF1YWxzc3EAfgAMxgvxFHQABVRyYWRlc3EAfgAM/DaofHQAA0FkZHNxAH4ADKZAQPt0AAxhc0luc3RhbmNlT2ZzcQB+AAxv61RPdAAMc3luY2hyb25pemVkc3EAfgAMHH5nbnQADSRpc0luc3RhbmNlT2ZzcQB+AAxNBa5+dAAEbnVtMnNxAH4ADASsWQR0AAhjYW5FcXVhbHNxAH4ADLy8Bnt0AA1wcm9kdWN0UHJlZml4c3EAfgAMTRm2eXQACW5vdGlmeUFsbHNxAH4ADHjiwwd0AAxpc0luc3RhbmNlT2ZzcQB+AAzbnAa0dAAFTG9naW5zcQB+AAyJKT3idAAGPGluaXQ+c3EAfgAMQ9/zDXQAAj09c3EAfgAMXZX843QABWNsb25lc3EAfgAM2uE3C3QABiRpbml0JHNxAH4ADPccYkh0AARjb3B5c3EAfgAMT8hLpXQACHRvU3RyaW5nc3EAfgAMG1MYOHQAAiE9c3EAfgAMlxEjxnQAE0JhY2tlbmRSZWdpc3RyYXRpb25zcQB+AAyO8chTdAAIZ2V0Q2xhc3NzcQB+AAzZGYxqdAAOY29weSRkZWZhdWx0JDFzcQB+AAyM/eUadAAGdGlja2Vyc3EAfgAMv8bv2nQAAm5lc3EAfgAMiPAKbXQAGkFjY291bnRTZXJ2aWNlUmVnaXN0cmF0aW9uc3EAfgAMRn0os3QABmFjdGlvbnNxAH4ADPGqAQh0AAJlcXNxAH4ADGdIv950AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzk9HrDdAACIyNzcQB+AAwqZIA6dAAIZmluYWxpemVzcQB+AAwGEiNBdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxkg2bTdAAIaGFzaENvZGVzcQB+AAykddISdAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAGc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAALY2x1c3Rlci5BZGR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIZzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4An3NxAH4AknEAfgCVc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnQABGphdmFzcQB+AJ50AAJpb3EAfgCjc3EAfgCSdAAHUHJvZHVjdHEAfgCYc3EAfgCSdAAGRXF1YWxzcQB+AJhzcQB+AJJ0AAZPYmplY3RzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AARsYW5ncQB+AKNzcQB+AJJ0AANBbnlxAH4AmHNxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0ABtjbHVzdGVyLkJhY2tlbmRSZWdpc3RyYXRpb251cQB+AHkAAAAAfnEAfgB7dAAGTW9kdWxldXEAfgB/AAAAAHNxAH4AgXEAfgCHc3EAfgCBc3EAfgCJc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cQB+AJAAAAAGc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAACc3EAfgCecQB+AKFxAH4Ao3NxAH4AknEAfgCVc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCedAACaW9xAH4Ao3NxAH4AknEAfgCtcQB+AMxzcQB+AJJ0AAZFcXVhbHNxAH4AzHNxAH4AknEAfgCxc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCecQB+ALdxAH4Ao3NxAH4AknEAfgC5cQB+AMxzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAANY2x1c3Rlci5Mb2dpbnVxAH4AeQAAAABxAH4AfXVxAH4AfwAAAABzcQB+AIFxAH4Ah3NxAH4AgXNxAH4AiXNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgCQAAAABnNxAH4AknEAfgCVc3EAfgCWc3EAfgCZdXEAfgCcAAAAAnNxAH4AnnEAfgChcQB+AKNzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ5xAH4AqXNxAH4AnnQAAmlvcQB+AKNzcQB+AJJxAH4ArXEAfgDxc3EAfgCSdAAGRXF1YWxzcQB+APFzcQB+AJJxAH4AsXNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ5xAH4AqXNxAH4AnnEAfgC3cQB+AKNzcQB+AJJxAH4AuXEAfgDxc3EAfgBmcQB+AHN1cQB+AHQAAAAAc3EAfgB2AHQAImNsdXN0ZXIuQWNjb3VudFNlcnZpY2VSZWdpc3RyYXRpb251cQB+AHkAAAAAcQB+AL91cQB+AH8AAAAAc3EAfgCBcQB+AIdzcQB+AIFzcQB+AIlzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AkAAAAAZzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ5xAH4AoXEAfgCjc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AAJpb3EAfgCjc3EAfgCScQB+AK1xAH4BFnNxAH4AknQABkVxdWFsc3EAfgEWc3EAfgCScQB+ALFzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ5xAH4At3EAfgCjc3EAfgCScQB+ALlxAH4BFnNxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0AA1jbHVzdGVyLlRyYWRldXEAfgB5AAAAAHEAfgB9dXEAfgB/AAAAAHNxAH4AgXEAfgCHc3EAfgCBc3EAfgCJc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cQB+AJAAAAAGc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAACc3EAfgCecQB+AKFxAH4Ao3NxAH4AknEAfgCVc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCedAACaW9xAH4Ao3NxAH4AknEAfgCtcQB+ATtzcQB+AJJ0AAZFcXVhbHNxAH4BO3NxAH4AknEAfgCxc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCecQB+ALdxAH4Ao3NxAH4AknEAfgC5cQB+ATtzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAAgY2x1c3Rlci5UcmFkZVNlcnZpY2VSZWdpc3RyYXRpb251cQB+AHkAAAAAcQB+AL91cQB+AH8AAAAAc3EAfgCBcQB+AIdzcQB+AIFzcQB+AIlzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AkAAAAAZzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ5xAH4AoXEAfgCjc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AAJpb3EAfgCjc3EAfgCScQB+AK1xAH4BYHNxAH4AknQABkVxdWFsc3EAfgFgc3EAfgCScQB+ALFzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ5xAH4At3EAfgCjc3EAfgCScQB+ALlxAH4BYHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2NsdXN0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVhoM/WmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN6+pPXYEm9Kaow59nJx2nXpwObB
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTJ8QGAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAZpkwGdAAEc2VsZnNxAH4AC3T7qgZ0AAdjb250ZXh0dXEAfgAJAAAAJnNxAH4AC277V/p0AAxUcmFkZVNlcnZpY2VzcQB+AAvSgNkrdAAGbm90aWZ5c3EAfgALhUGsIXQAB1JlY2VpdmVzcQB+AAsd2TKddAAEd2FpdHNxAH4AC5hSTIZ0AA0kYXNJbnN0YW5jZU9mc3EAfgALByE81nQABmVxdWFsc3NxAH4AC3Fpfjp0AAxhc0luc3RhbmNlT2ZzcQB+AAsxZ40edAAMc3luY2hyb25pemVkc3EAfgALCJTHnHQACGluaXRpYXRlc3EAfgALv8oQf3QADSRpc0luc3RhbmNlT2ZzcQB+AAtMO8updAAHcmVjZWl2ZXNxAH4AC0H/iE90AApwcmVSZXN0YXJ0c3EAfgALdhEgtXQADWFyb3VuZFJlY2VpdmVzcQB+AAvcq6YodAALcG9zdFJlc3RhcnRzcQB+AAtW5cZVdAAIcG9zdFN0b3BzcQB+AAvArkKedAAJbm90aWZ5QWxsc3EAfgALrHyMB3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALINDDD3QADGlzSW5zdGFuY2VPZnNxAH4ACw64aq10ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALg2VSzXQADmFyb3VuZFBvc3RTdG9wc3EAfgAL+GclZXQAB2NsdXN0ZXJzcQB+AAsc6HF0dAAGPGluaXQ+c3EAfgALxAEyx3QACHByZVN0YXJ0c3EAfgALA+4O3nQACXVuaGFuZGxlZHNxAH4AC9rhtsR0AAI9PXNxAH4ACygKd9R0AAVjbG9uZXNxAH4ACyyQmsx0AAYkaW5pdCRzcQB+AAtoChXVdAAGc2VuZGVyc3EAfgALcCz5WXQACHRvU3RyaW5nc3EAfgALgZX91HQAAiE9c3EAfgAL0Mvq9nQACGdldENsYXNzc3EAfgAL69Z3V3QAAm5lc3EAfgALvLW8a3QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC6PXegN0AAJlcXNxAH4AC5ZHCdt0AAIjI3NxAH4AC19y5px0AAhmaW5hbGl6ZXNxAH4AC5eao0F0AAhoYXNoQ29kZXNxAH4ACys5jXF0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABRjbHVzdGVyLlRyYWRlU2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB/c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhHNxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJx0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAAGT2JqZWN0c3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHQABGphdmFzcQB+AJx0AARsYW5ncQB+AKNzcQB+AJB0AANBbnlzcQB+AJRzcQB+AJd1cQB+AJoAAAACc3EAfgCcdAAFc2NhbGFxAH4Ao3NxAH4AZHEAfgBxdXEAfgByAAAAAHNxAH4AdAB0ABRjbHVzdGVyLlRyYWRlU2VydmljZXVxAH4AdwAAAAB+cQB+AHl0AAZNb2R1bGV1cQB+AH0AAAAAc3EAfgB/cQB+AIVzcQB+AH9zcQB+AIdzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AjgAAAAJzcQB+AJBxAH4ApXNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4AqnNxAH4AnHEAfgCscQB+AKNzcQB+AJBxAH4ArnNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4As3EAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAHY2x1c3RlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg8d691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL2hvbWUvamJlY2tlci9Eb2N1bWVudHMvU0UgNDgwL2Fra2EtY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUKLfIljRwy15RhuxaElrL3GH2Je4=
+external apis:
+0 items
+source infos:
+6 items
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/AccountService.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Backend.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/ClusterApp.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Frontend.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/Messages.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/akka-cluster/src/main/scala/cluster/TradeService.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgMiWB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgV3vB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgnorV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgo7nZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgz9aZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg19rp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg5GLd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg6w7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg8d691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

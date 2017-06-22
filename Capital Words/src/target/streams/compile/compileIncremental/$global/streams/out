@@ -1,0 +1,48 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\james\Desktop\mapReduceCapitalWords\src\messages.scala, C:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\james\Desktop\mapReduceCapitalWords\src\messages.scala, C:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\james\Desktop\mapReduceCapitalWords\src\messages.scala, C:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Users\james\Desktop\mapReduceCapitalWords\src\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 45a1ac6f, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes;C:\Users\james\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\james\Desktop\mapReduceCapitalWords\src\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mC:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala:6: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{Actor, ActorRef}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala:7: object typesafe is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.typesafe.config.ConfigFactory[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala:9: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass ReduceActor extends Actor {[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0mC:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala:10: not found: value ConfigFactory[0m
+[0m[[31merror[0m] [0m  var remainingMappers = ConfigFactory.load.getInt("number-mappers")[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mC:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala:14: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mC:\Users\james\Desktop\mapReduceCapitalWords\src\reduceactor.scala:37: not found: value context[0m
+[0m[[31merror[0m] [0m        context.parent ! Done[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m6 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

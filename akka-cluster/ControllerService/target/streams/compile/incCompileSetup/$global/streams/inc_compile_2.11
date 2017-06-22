@@ -1,0 +1,533 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes
+compile options:
+2 items
+0 -> -unchecked
+1 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountService$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountService$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountService.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountServiceApp$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountServiceApp$delayedInit$body.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountServiceApp.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/ControllerService$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/ControllerService$delayedInit$body.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/ControllerService.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/AccountServiceRegistration$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/AccountServiceRegistration.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Add$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Add.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/BackendRegistration$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/BackendRegistration.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Login$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Login.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Trade$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Trade.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/TradeServiceRegistration$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/TradeServiceRegistration.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeApp$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeApp$delayedInit$body.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeApp.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeService$$anonfun$receive$1.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeService$.class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeService.class
+binary dependencies:
+16 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService.AccountService
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService.AccountService$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService.AccountService$$anonfun$receive$1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService.AccountServiceApp
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService.AccountServiceApp$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService.AccountServiceApp$delayedInit$body
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.Controller
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.Controller$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.Controller$$anonfun$receive$1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.Controller$$anonfun$receive$1$$anonfun$applyOrElse$1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.ControllerService
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.ControllerService$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller.ControllerService$delayedInit$body
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.AccountServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.AccountServiceRegistration$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.Add
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.Add$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.BackendRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.BackendRegistration$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.Login
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.Login$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.Trade$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages.TradeServiceRegistration$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeApp
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeApp$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeApp$delayedInit$body
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeService
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeService$
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService.TradeService$$anonfun$receive$1
+used names:
+308 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> !
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> +
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> /
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> <init>
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> <repeated>
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> A1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountService
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountServiceApp
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AccountServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ActorContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ActorRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ActorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Address
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Any
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> AnyRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> App
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> B1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Boolean
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ClusterEvent
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Config
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ConfigMergeable
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Function1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Int
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Login
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Member
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> MemberUp
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Messages
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Nothing
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Object
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Predef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Props
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> RootActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> ScalaActorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> String
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> StringContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> T
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> T0
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> Unit
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> _$1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> _$7
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> actorOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> actorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> address
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> akka
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> apply
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> com
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> config
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> context
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> getConfig
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> hasRole
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> initiate
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> load
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> member
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> name
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> package
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> parseString
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> password
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> path
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> port
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> println
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> s
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> self
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> subscribe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> system
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> toScala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> typesafe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> unchecked
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> unsubscribe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> withFallback
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> :+
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> <init>
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ==
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> A
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> A1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> AccountServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ActorContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ActorRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Any
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> AnyRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> App
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> B
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> B1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Boolean
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> CanBuildFrom
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Coll
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Config
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Controller
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> ControllerService
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Function1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> IndexedSeq
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Int
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Login
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Messages
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Nothing
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Object
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Predef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Props
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Random
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> String
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> T
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> T0
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Terminated
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> That
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> Unit
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> _$7
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> _controller
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> _controller_=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> a
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> accounting
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> accounting_=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> actorOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> akka
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> apply
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> backends
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> backends_=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> canBuildFrom
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> collection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> com
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> config
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> contains
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> context
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> empty
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> filterNot
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> forward
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> getConfig
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> initiate
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> isEmpty
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> load
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> nextInt
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> package
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> path
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> println
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> self
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> sender
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> size
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> system
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> trade_=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> typesafe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> unary_!
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> unchecked
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> util
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> watch
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> &&
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> <init>
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> ==
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> A
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> AbstractFunction2
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> AccountServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Add
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Any
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> AnyRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> BackendRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Boolean
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> IndexOutOfBoundsException
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Int
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Iterator
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Login
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Messages
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> None
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Nothing
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Object
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Predef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Product
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> ScalaRunTime
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Serializable
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Some
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Statics
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> String
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> T
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> T0
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> T1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> T2
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> Tuple2
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> _hashCode
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> _toString
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> action
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> eq
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> finalizeHash
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> mix
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> name
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> num1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> num2
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> package
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> password
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> runtime
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> ticker
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> toString
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> typedProductIterator
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> ||
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> !
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> +
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> /
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> <init>
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> <repeated>
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> A1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> AbstractPartialFunction
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ActorContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ActorRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ActorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ActorSystem
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Address
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Any
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> AnyRef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> App
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> B1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Boolean
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Class
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ClusterEvent
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Config
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ConfigFactory
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ConfigMergeable
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Function1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Int
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Member
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> MemberUp
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Messages
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Nothing
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Object
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Predef
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Props
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> RootActorPath
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ScalaActorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> String
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> StringContext
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> T
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> T0
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Trade
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeApp
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeService
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> TradeServiceRegistration
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> Unit
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> _$1
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> _$7
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> action
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> actor
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> actorOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> actorSelection
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> address
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> akka
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> apply
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> asInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> cluster
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> com
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> config
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> context
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> getConfig
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> hasRole
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> initiate
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> isInstanceOf
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> load
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> materializeClassTag
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> member
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> package
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> parseString
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> path
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> port
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> println
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> s
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> scala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> self
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> subscribe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> system
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> task
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> ticker
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> toScala
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> typesafe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> unchecked
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> unsubscribe
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> withFallback
+product stamps:
+31 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountService$$anonfun$receive$1.class -> lastModified(1479227860000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountService$.class -> lastModified(1479227860000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountService.class -> lastModified(1479227860000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountServiceApp$.class -> lastModified(1479227860000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountServiceApp$delayedInit$body.class -> lastModified(1479227860000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/AccountService/AccountServiceApp.class -> lastModified(1479227860000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller$$anonfun$receive$1.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller$.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/Controller.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/ControllerService$.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/ControllerService$delayedInit$body.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Controller/ControllerService.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/AccountServiceRegistration$.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/AccountServiceRegistration.class -> lastModified(1479227768000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Add$.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Add.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/BackendRegistration$.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/BackendRegistration.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Login$.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Login.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Trade$.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/Trade.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/TradeServiceRegistration$.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/Messages/TradeServiceRegistration.class -> lastModified(1479227769000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeApp$.class -> lastModified(1479228024000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeApp$delayedInit$body.class -> lastModified(1479228024000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeApp.class -> lastModified(1479228024000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeService$$anonfun$receive$1.class -> lastModified(1479228024000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeService$.class -> lastModified(1479228024000)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/target/scala-2.11/classes/TradeService/TradeService.class -> lastModified(1479228024000)
+source stamps:
+4 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> hash(cf1288bed8cf59871318b2da157710a3cd4aee2c)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> hash(56bfd81387a84c87253e625399b1424437870f8f)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> hash(ab921f587d58dbb5081843a17dcb671fd3297b26)
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> hash(de42733e5ba24794f9856f5e1498e4c20e4477b2)
+binary stamps:
+5 items
+/home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar -> lastModified(1443601575000)
+/home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1461347982000)
+/home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar -> lastModified(1461347982000)
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar -> lastModified(1469466857000)
+class names:
+5 items
+/home/jbecker/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.4.0.jar -> akka.cluster.Member
+/home/jbecker/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+/home/jbecker/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/home/jbecker/Desktop/activator-dist-1.3.10/repository/com.typesafe.akka/akka-actor_2.11/2.4.0/jars/akka-actor_2.11.jar -> akka.actor.Actor
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-1.b14.fc24.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrcNMOwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHA6tbuBdAAEc2VsZnNxAH4AC86c6gd0AAdjb250ZXh0dXEAfgAJAAAAK3NxAH4AC5wULsR0AAZub3RpZnlzcQB+AAtXK+5NdAAHUmVjZWl2ZXNxAH4AC6jTnPZ0AAR3YWl0c3EAfgAL5EimrHQADSRhc0luc3RhbmNlT2ZzcQB+AAuM8ZgPdAAGZXF1YWxzc3EAfgALDXFGi3QADGFzSW5zdGFuY2VPZnNxAH4AC8JwHQd0AA5leGVjdXRpb25TdGFydHNxAH4AC5eMmtB0AAxzeW5jaHJvbml6ZWRzcQB+AAtYgfVRdAAIaW5pdGlhdGVzcQB+AAu9K/iAdAANJGlzSW5zdGFuY2VPZnNxAH4AC0LWt1x0AAdyZWNlaXZlc3EAfgALDCmcs3QACnByZVJlc3RhcnRzcQB+AAuZ1dCedAANYXJvdW5kUmVjZWl2ZXNxAH4AC2ewz1l0AAtwb3N0UmVzdGFydHNxAH4AC9PbPDh0AARtYWluc3EAfgALqt5UC3QACHBvc3RTdG9wc3EAfgALVcoIHnQACW5vdGlmeUFsbHNxAH4AC8AS0a90ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC2tKSPh0AAxpc0luc3RhbmNlT2ZzcQB+AAtQ9LX2dAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC1M9Fld0AA5hcm91bmRQb3N0U3RvcHNxAH4AC8OwU9B0AAdjbHVzdGVyc3EAfgAL8kX/vHQABjxpbml0PnNxAH4AC0AN3K10AAhwcmVTdGFydHNxAH4ACyCKLQx0AAl1bmhhbmRsZWRzcQB+AAv/2kGldAACPT1zcQB+AAuZ6ZBLdAAFY2xvbmVzcQB+AAt4u6VHdAAGJGluaXQkc3EAfgALQo1lzXQABnNlbmRlcnNxAH4AC5bcGCB0AAh0b1N0cmluZ3NxAH4AC455DCB0AARhcmdzc3EAfgALl4HC5XQAEUFjY291bnRTZXJ2aWNlQXBwc3EAfgALaETE2nQAAiE9c3EAfgAL4vLmCnQACGdldENsYXNzc3EAfgALCIWwRXQADkFjY291bnRTZXJ2aWNlc3EAfgALnM5Rf3QAAm5lc3EAfgALx2FiPHQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC1Pe7OB0AAJlcXNxAH4ACz3QMVR0AAtkZWxheWVkSW5pdHNxAH4AC9SyRtZ0AAIjI3NxAH4AC0Lq8OF0AAhmaW5hbGl6ZXNxAH4AC5BqIwR0AAhoYXNoQ29kZXNxAH4ACz5ZHch0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB1BY2NvdW50U2VydmljZS5BY2NvdW50U2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjnNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCNdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKZ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCnc3EAfgCadAAGT2JqZWN0c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnQABGphdmFzcQB+AKZ0AARsYW5ncQB+AK1zcQB+AJp0AANBbnlzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmdAAFc2NhbGFxAH4ArXNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0AB1BY2NvdW50U2VydmljZS5BY2NvdW50U2VydmljZXVxAH4AgQAAAAB+cQB+AIN0AAZNb2R1bGV1cQB+AIcAAAAAc3EAfgCJcQB+AI9zcQB+AIlzcQB+AJFzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXEAfgBsAAAAAHNxAH4AiXVxAH4AmAAAAAJzcQB+AJpxAH4Ar3NxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AtHNxAH4ApnEAfgC2cQB+AK1zcQB+AJpxAH4AuHNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AvXEAfgCtc3EAfgBucQB+AHt1cQB+AHwAAAAAc3EAfgB+AHQAIEFjY291bnRTZXJ2aWNlLkFjY291bnRTZXJ2aWNlQXBwdXEAfgCBAAAAAHEAfgDDdXEAfgCHAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4AiXEAfgCPc3EAfgCJc3EAfgCRc3EAfgCJdXEAfgBsAAAAAHNxAH4AiXVxAH4AbAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcnEAfgB7dXEAfgB8AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A6nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AvXEAfgCtc3EAfgB+AHEAfgAvdXEAfgCBAAAAAHNxAH4AmnQABFVuaXRxAH4A+XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AOp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIR0AAVQbGFpbnEAfgBPc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCNc3EAfgCadAAFQXJyYXlxAH4A+XVxAH4AmAAAAAFzcQB+AJp0AAZTdHJpbmdzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALRzcQB+AKZxAH4AtnEAfgCtc3EAfgCJdXEAfgCYAAAABHNxAH4AmnQAA0FwcHEAfgD5c3EAfgCadAALRGVsYXllZEluaXRxAH4A+XNxAH4AmnEAfgCvcQB+ARZzcQB+AJpxAH4AuHEAfgD5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAOQWNjb3VudFNlcnZpY2VzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVho2cwQdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzxKIvtjPWYcTGLLaFXcQo81K7iw=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbjbD3gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCQs2p9dAAEc2VsZnNxAH4AC8+L2250AAdjb250ZXh0dXEAfgAJAAAALnNxAH4ACwcFO6t0AAZub3RpZnlzcQB+AAsR6yZ5dAAHUmVjZWl2ZXNxAH4AC+kWq790AAphY2NvdW50aW5nc3EAfgAL5QctCHQABHdhaXRzcQB+AAs/2swKdAANJGFzSW5zdGFuY2VPZnNxAH4AC3ErnvV0AA1nZXRDb250cm9sbGVyc3EAfgALsENBaHQABmVxdWFsc3NxAH4ACy6cg+R0AAhiYWNrZW5kc3NxAH4AC4JaaKh0AAxhc0luc3RhbmNlT2ZzcQB+AAtcN7YGdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAtCXDQhdAAMc3luY2hyb25pemVkc3EAfgALgFy9PHQACGluaXRpYXRlc3EAfgAL/8Rg4XQADSRpc0luc3RhbmNlT2ZzcQB+AAvnKboddAAHcmVjZWl2ZXNxAH4AC9T731d0AApwcmVSZXN0YXJ0c3EAfgAL+fg1EHQADWFyb3VuZFJlY2VpdmVzcQB+AAuaH0dndAAFdHJhZGVzcQB+AAtb1WuYdAALcG9zdFJlc3RhcnRzcQB+AAti6mTndAAEbWFpbnNxAH4AC1tlGO10AAhwb3N0U3RvcHNxAH4AC6EuRCV0AAlub3RpZnlBbGxzcQB+AAv+qgYcdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAudn5nddAAMaXNJbnN0YW5jZU9mc3EAfgALvtXjDHQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvowVtTdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvUHR9odAAGPGluaXQ+c3EAfgALVSh/nXQACkNvbnRyb2xsZXJzcQB+AAtpLlbqdAAIcHJlU3RhcnRzcQB+AAtoId2ddAAJdW5oYW5kbGVkc3EAfgALLKDIqXQAEUNvbnRyb2xsZXJTZXJ2aWNlc3EAfgALY/aaaHQAAj09c3EAfgALRlIFWnQABWNsb25lc3EAfgALGgUCZnQABiRpbml0JHNxAH4AC8J1fU50AAZzZW5kZXJzcQB+AAsBVyVLdAAIdG9TdHJpbmdzcQB+AAsi8lm3dAAEYXJnc3NxAH4AC1Imds50AAIhPXNxAH4AC8RBLnR0AAhnZXRDbGFzc3NxAH4AC8WvbrZ0AAJuZXNxAH4ACyBOqhh0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuAU59qdAACZXFzcQB+AAtzVHg8dAALZGVsYXllZEluaXRzcQB+AAsuENVHdAACIyNzcQB+AAt5O9hIdAAIZmluYWxpemVzcQB+AAtVmjeudAAIaGFzaENvZGVzcQB+AAsroJ3HdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVQ29udHJvbGxlci5Db250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AI9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCUc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VxAH4AcgAAAABzcQB+AI91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJN0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ak3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4ArHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK1zcQB+AKB0AAZPYmplY3RzcQB+AKRzcQB+AKd1cQB+AKoAAAADc3EAfgCsdAAEamF2YXNxAH4ArHQABGxhbmdxAH4As3NxAH4AoHQAA0FueXNxAH4ApHNxAH4Ap3VxAH4AqgAAAAJzcQB+AKx0AAVzY2FsYXEAfgCzc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHQAFUNvbnRyb2xsZXIuQ29udHJvbGxlcnVxAH4AhwAAAAB+cQB+AIl0AAZNb2R1bGV1cQB+AI0AAAAAc3EAfgCPcQB+AJVzcQB+AI9zcQB+AJdzcQB+AI91cQB+AHIAAAAAc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VxAH4AngAAAAJzcQB+AKBxAH4AtXNxAH4ApHNxAH4Ap3VxAH4AqgAAAANzcQB+AKxxAH4AunNxAH4ArHEAfgC8cQB+ALNzcQB+AKBxAH4AvnNxAH4ApHNxAH4Ap3VxAH4AqgAAAAJzcQB+AKxxAH4Aw3EAfgCzc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHQAHENvbnRyb2xsZXIuQ29udHJvbGxlclNlcnZpY2V1cQB+AIcAAAAAcQB+AMl1cQB+AI0AAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3EAfgCPcQB+AJVzcQB+AI9zcQB+AJdzcQB+AI91cQB+AHIAAAAAc3EAfgCPdXEAfgByAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgB4cQB+AIF1cQB+AIIAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgDweHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AoHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgCkc3EAfgCndXEAfgCqAAAAAnNxAH4ArHEAfgDDcQB+ALNzcQB+AIQAcQB+ADd1cQB+AIcAAAAAc3EAfgCgdAAEVW5pdHEAfgD/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4A8HhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AinQABVBsYWlucQB+AFlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJNzcQB+AKB0AAVBcnJheXEAfgD/dXEAfgCeAAAAAXNxAH4AoHQABlN0cmluZ3NxAH4ApHNxAH4Ap3VxAH4AqgAAAANzcQB+AKxxAH4AunNxAH4ArHEAfgC8cQB+ALNzcQB+AI91cQB+AJ4AAAAEc3EAfgCgdAADQXBwcQB+AP9zcQB+AKB0AAtEZWxheWVkSW5pdHEAfgD/c3EAfgCgcQB+ALVxAH4BHHNxAH4AoHEAfgC+cQB+AP91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AApDb250cm9sbGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYaNhjTHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFwvaG9tZS9qYmVja2VyL0RvY3VtZW50cy9TRSA0ODAvUGVyc29uYWxBc3Npc3RlbnQvQ29udHJvbGxlclNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFa/2BOHqEyHJT5iU5mxQkQ3hw+P
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCWZgJQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwx6+x+3QABm5vdGlmeXNxAH4ADGCfVZR0AARuYW1lc3EAfgAMx3md8HQABHdhaXRzcQB+AAy9a933dAAEbnVtMXNxAH4ADNnwDFt0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADFOFVax0AA0kYXNJbnN0YW5jZU9mc3EAfgAM+P5c0XQAGFRyYWRlU2VydmljZVJlZ2lzdHJhdGlvbnNxAH4ADOFW2ed0AAxwcm9kdWN0QXJpdHlzcQB+AAyCAzusdAAGZXF1YWxzc3EAfgAMk9DpbnQABVRyYWRlc3EAfgAMvqH+x3QAA0FkZHNxAH4ADL/Z/yt0AAxhc0luc3RhbmNlT2ZzcQB+AAznHReFdAAMc3luY2hyb25pemVkc3EAfgAMGxaQxHQADSRpc0luc3RhbmNlT2ZzcQB+AAz8mZUUdAAEbnVtMnNxAH4ADNjlmRh0AAhjYW5FcXVhbHNxAH4ADGJt6T90AA1wcm9kdWN0UHJlZml4c3EAfgAMJPKRc3QACW5vdGlmeUFsbHNxAH4ADHllcCJ0AAxpc0luc3RhbmNlT2ZzcQB+AAyIBM/qdAAFTG9naW5zcQB+AAw4yiYcdAAGPGluaXQ+c3EAfgAMvGoifHQAAj09c3EAfgAMsdTGzXQABWNsb25lc3EAfgAMpQA+AHQABiRpbml0JHNxAH4ADIB7SgZ0AARjb3B5c3EAfgAMNxXNLnQACHRvU3RyaW5nc3EAfgAMmgtQ9nQAAiE9c3EAfgAMN6jKuXQAE0JhY2tlbmRSZWdpc3RyYXRpb25zcQB+AAzGLp/AdAAIZ2V0Q2xhc3NzcQB+AAyFJlogdAAOY29weSRkZWZhdWx0JDFzcQB+AAwNK+6fdAAGdGlja2Vyc3EAfgAM/iUjWXQAAm5lc3EAfgAMod+G9nQAGkFjY291bnRTZXJ2aWNlUmVnaXN0cmF0aW9uc3EAfgAM1HPEUXQABmFjdGlvbnNxAH4ADNd3QwZ0AAJlcXNxAH4ADOd8iQZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwLFGphdAACIyNzcQB+AAwOcOWzdAAIZmluYWxpemVzcQB+AAyTZCnwdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAz+NfatdAAIaGFzaENvZGVzcQB+AAzuYWq6dAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAGc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAMTWVzc2FnZXMuQWRkdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCGc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ50AARqYXZhc3EAfgCedAACaW9xAH4Ao3NxAH4AknQAB1Byb2R1Y3RxAH4AmHNxAH4AknQABkVxdWFsc3EAfgCYc3EAfgCSdAAGT2JqZWN0c3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCedAAEbGFuZ3EAfgCjc3EAfgCSdAADQW55cQB+AJhzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAAcTWVzc2FnZXMuQmFja2VuZFJlZ2lzdHJhdGlvbnVxAH4AeQAAAAB+cQB+AHt0AAZNb2R1bGV1cQB+AH8AAAAAc3EAfgCBcQB+AIdzcQB+AIFzcQB+AIlzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AkAAAAAZzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ5xAH4AoXEAfgCjc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AAJpb3EAfgCjc3EAfgCScQB+AK1xAH4AzHNxAH4AknQABkVxdWFsc3EAfgDMc3EAfgCScQB+ALFzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ5xAH4At3EAfgCjc3EAfgCScQB+ALlxAH4AzHNxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0AA5NZXNzYWdlcy5Mb2dpbnVxAH4AeQAAAABxAH4AfXVxAH4AfwAAAABzcQB+AIFxAH4Ah3NxAH4AgXNxAH4AiXNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgCQAAAABnNxAH4AknEAfgCVc3EAfgCWc3EAfgCZdXEAfgCcAAAAAnNxAH4AnnEAfgChcQB+AKNzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ5xAH4AqXNxAH4AnnQAAmlvcQB+AKNzcQB+AJJxAH4ArXEAfgDxc3EAfgCSdAAGRXF1YWxzcQB+APFzcQB+AJJxAH4AsXNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ5xAH4AqXNxAH4AnnEAfgC3cQB+AKNzcQB+AJJxAH4AuXEAfgDxc3EAfgBmcQB+AHN1cQB+AHQAAAAAc3EAfgB2AHQAI01lc3NhZ2VzLkFjY291bnRTZXJ2aWNlUmVnaXN0cmF0aW9udXEAfgB5AAAAAHEAfgC/dXEAfgB/AAAAAHNxAH4AgXEAfgCHc3EAfgCBc3EAfgCJc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cQB+AJAAAAAGc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAACc3EAfgCecQB+AKFxAH4Ao3NxAH4AknEAfgCVc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCedAACaW9xAH4Ao3NxAH4AknEAfgCtcQB+ARZzcQB+AJJ0AAZFcXVhbHNxAH4BFnNxAH4AknEAfgCxc3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCecQB+ALdxAH4Ao3NxAH4AknEAfgC5cQB+ARZzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAAOTWVzc2FnZXMuVHJhZGV1cQB+AHkAAAAAcQB+AH11cQB+AH8AAAAAc3EAfgCBcQB+AIdzcQB+AIFzcQB+AIlzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AkAAAAAZzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ5xAH4AoXEAfgCjc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AAJpb3EAfgCjc3EAfgCScQB+AK1xAH4BO3NxAH4AknQABkVxdWFsc3EAfgE7c3EAfgCScQB+ALFzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ5xAH4At3EAfgCjc3EAfgCScQB+ALlxAH4BO3NxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0ACFNZXNzYWdlcy5UcmFkZVNlcnZpY2VSZWdpc3RyYXRpb251cQB+AHkAAAAAcQB+AL91cQB+AH8AAAAAc3EAfgCBcQB+AIdzcQB+AIFzcQB+AIlzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AkAAAAAZzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ5xAH4AoXEAfgCjc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AAJpb3EAfgCjc3EAfgCScQB+AK1xAH4BYHNxAH4AknQABkVxdWFsc3EAfgFgc3EAfgCScQB+ALFzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ5xAH4At3EAfgCjc3EAfgCScQB+ALlxAH4BYHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACE1lc3NhZ2Vzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYaNhjTHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFwvaG9tZS9qYmVja2VyL0RvY3VtZW50cy9TRSA0ODAvUGVyc29uYWxBc3Npc3RlbnQvQ29udHJvbGxlclNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKuSH1h9WNu1CBhDoX3LZx/TKXsm
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOph5MQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB/0ndJdAAEc2VsZnNxAH4ACyYszKZ0AAdjb250ZXh0dXEAfgAJAAAAK3NxAH4AC2EhC8F0AAxUcmFkZVNlcnZpY2VzcQB+AAux8icydAAGbm90aWZ5c3EAfgALYc9H/3QAB1JlY2VpdmVzcQB+AAsaZwAHdAAEd2FpdHNxAH4ACwKvC6t0AA0kYXNJbnN0YW5jZU9mc3EAfgALl94Rn3QABmVxdWFsc3NxAH4AC144vj50AAxhc0luc3RhbmNlT2ZzcQB+AAsys9XQdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvKTiludAAMc3luY2hyb25pemVkc3EAfgALiFsFvHQACGluaXRpYXRlc3EAfgALRDPnxnQADSRpc0luc3RhbmNlT2ZzcQB+AAsM0LbedAAHcmVjZWl2ZXNxAH4AC3aaEWp0AApwcmVSZXN0YXJ0c3EAfgALgBQYI3QADWFyb3VuZFJlY2VpdmVzcQB+AAvwAXhzdAALcG9zdFJlc3RhcnRzcQB+AAu4OACadAAEbWFpbnNxAH4ACzDJPrN0AAhwb3N0U3RvcHNxAH4ACxTZp590AAlub3RpZnlBbGxzcQB+AAvgZ2MhdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtSgbpBdAAMaXNJbnN0YW5jZU9mc3EAfgALqn+ExXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuDiuB/dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsB08xTdAAHY2x1c3RlcnNxAH4AC/hwc0B0AAY8aW5pdD5zcQB+AAuj1g90dAAIcHJlU3RhcnRzcQB+AAug49OAdAAIVHJhZGVBcHBzcQB+AAsgoB9PdAAJdW5oYW5kbGVkc3EAfgALML44MHQAAj09c3EAfgALKL/u13QABWNsb25lc3EAfgALceM7z3QABiRpbml0JHNxAH4AC60vv+l0AAZzZW5kZXJzcQB+AAt7I7ZQdAAIdG9TdHJpbmdzcQB+AAulzg4pdAAEYXJnc3NxAH4ACzhFeEt0AAIhPXNxAH4AC2htX310AAhnZXRDbGFzc3NxAH4ACwz5db10AAJuZXNxAH4AC2JNWzh0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuZwKvCdAACZXFzcQB+AAvIGG7GdAALZGVsYXllZEluaXRzcQB+AAumG+7IdAACIyNzcQB+AAu+I/sgdAAIZmluYWxpemVzcQB+AAtiCNOtdAAIaGFzaENvZGVzcQB+AAt+Hl1MdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZVHJhZGVTZXJ2aWNlLlRyYWRlU2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjnNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCNdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKZ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCnc3EAfgCadAAGT2JqZWN0c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnQABGphdmFzcQB+AKZ0AARsYW5ncQB+AK1zcQB+AJp0AANBbnlzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmdAAFc2NhbGFxAH4ArXNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0ABlUcmFkZVNlcnZpY2UuVHJhZGVTZXJ2aWNldXEAfgCBAAAAAH5xAH4Ag3QABk1vZHVsZXVxAH4AhwAAAABzcQB+AIlxAH4Aj3NxAH4AiXNxAH4AkXNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXEAfgCYAAAAAnNxAH4AmnEAfgCvc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgC0c3EAfgCmcQB+ALZxAH4ArXNxAH4AmnEAfgC4c3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnEAfgC9cQB+AK1zcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAVVHJhZGVTZXJ2aWNlLlRyYWRlQXBwdXEAfgCBAAAAAHEAfgDDdXEAfgCHAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4AiXEAfgCPc3EAfgCJc3EAfgCRc3EAfgCJdXEAfgBsAAAAAHNxAH4AiXVxAH4AbAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcnEAfgB7dXEAfgB8AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A6nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AvXEAfgCtc3EAfgB+AHEAfgAxdXEAfgCBAAAAAHNxAH4AmnQABFVuaXRxAH4A+XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AOp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIR0AAVQbGFpbnEAfgBTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCNc3EAfgCadAAFQXJyYXlxAH4A+XVxAH4AmAAAAAFzcQB+AJp0AAZTdHJpbmdzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALRzcQB+AKZxAH4AtnEAfgCtc3EAfgCJdXEAfgCYAAAABHNxAH4AmnQAA0FwcHEAfgD5c3EAfgCadAALRGVsYXllZEluaXRxAH4A+XNxAH4AmnEAfgCvcQB+ARZzcQB+AJpxAH4AuHEAfgD5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAMVHJhZGVTZXJ2aWNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYaNxPZXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFwvaG9tZS9qYmVja2VyL0RvY3VtZW50cy9TRSA0ODAvUGVyc29uYWxBc3Npc3RlbnQvQ29udHJvbGxlclNlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN5Ccz5bokeU+YVvXhSY5MIORHey
+external apis:
+0 items
+source infos:
+4 items
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/AccountService/AccountService.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Controller/Controller.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/Messages/Messages.scala -> 
+AAAAAAAAAAA=
+/home/jbecker/Documents/SE 480/PersonalAssistent/ControllerService/src/main/scala/TradeService/TradeService.scala -> 
+AAAAAAAAAAA=
+compilations:
+21 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgMiWB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgV3vB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgnorV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgo7nZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGgz9aZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg19rp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg5GLd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg6w7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGg8d691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9ha2thLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGiT41B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGiYHPx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGiaDbB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGikHJJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGirM0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGi3RS11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGi+X/d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGjDqmx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGjQT7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGjYY0x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGjZzBB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGjcT2V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXC9ob21lL2piZWNrZXIvRG9jdW1lbnRzL1NFIDQ4MC9QZXJzb25hbEFzc2lzdGVudC9Db250cm9sbGVyU2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
